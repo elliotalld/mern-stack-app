@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mern-stack-app%20/static/css/main.6a934dfc.chunk.css",
+    "main.js": "/mern-stack-app%20/static/js/main.392b34b2.chunk.js",
+    "main.js.map": "/mern-stack-app%20/static/js/main.392b34b2.chunk.js.map",
+    "runtime-main.js": "/mern-stack-app%20/static/js/runtime-main.1de320c4.js",
+    "runtime-main.js.map": "/mern-stack-app%20/static/js/runtime-main.1de320c4.js.map",
+    "static/css/2.b90ce945.chunk.css": "/mern-stack-app%20/static/css/2.b90ce945.chunk.css",
+    "static/js/2.bda0032f.chunk.js": "/mern-stack-app%20/static/js/2.bda0032f.chunk.js",
+    "static/js/2.bda0032f.chunk.js.map": "/mern-stack-app%20/static/js/2.bda0032f.chunk.js.map",
+    "index.html": "/mern-stack-app%20/index.html",
+    "precache-manifest.f1a849a12e3a31b8e7ecc63342440fff.js": "/mern-stack-app%20/precache-manifest.f1a849a12e3a31b8e7ecc63342440fff.js",
+    "service-worker.js": "/mern-stack-app%20/service-worker.js",
+    "static/css/2.b90ce945.chunk.css.map": "/mern-stack-app%20/static/css/2.b90ce945.chunk.css.map",
+    "static/css/main.6a934dfc.chunk.css.map": "/mern-stack-app%20/static/css/main.6a934dfc.chunk.css.map",
+    "static/js/2.bda0032f.chunk.js.LICENSE.txt": "/mern-stack-app%20/static/js/2.bda0032f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1de320c4.js",
+    "static/css/2.b90ce945.chunk.css",
+    "static/js/2.bda0032f.chunk.js",
+    "static/css/main.6a934dfc.chunk.css",
+    "static/js/main.392b34b2.chunk.js"
+  ]
+}
